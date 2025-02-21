@@ -15,6 +15,7 @@ const App = () => {
       <ThreeDModel />
       
       <section className="about">
+
         <h2>About Me</h2>
         <p>
           I am a passionate developer with a love for 3D modeling and creating interactive web experiences.
@@ -24,9 +25,11 @@ const App = () => {
       <section className="projects">
         <h2>Projects</h2>
         <div className="project-cards">
+          
           <div className="card">Project 1</div>
           <div className="card">Project 2</div>
           <div className="card">Project 3</div>
+          
         </div>
       </section>
       
